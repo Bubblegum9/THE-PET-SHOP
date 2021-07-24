@@ -1,1 +1,1 @@
-# THE-PET-SHOP
+A Simple webpage displaying various CSS animations,text effects and borders.
